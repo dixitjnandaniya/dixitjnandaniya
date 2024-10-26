@@ -24,7 +24,7 @@
 - **Data Science & Machine Learning**: Pandas, Numpy, Scikit-learn, TensorFlow, PyTorch
 - **Frameworks**: Django, Flask
 - **Databases**: MongoDB, MySQL, SQLite
-- **Tools & Environments**: Jupyter Notebook, Google Colab, Kaggle, Docker, GitHub
+- **Tools & Environments**: Jupyter Notebook, Google Colab, PyCharm, Visual Studio, Android Studio, Kaggle, Docker, GitHub
 - **Soft Skills**: Agile Project Management, Problem-Solving, Team Collaboration
 
 ---
