@@ -43,9 +43,6 @@
 <a href="https://github.com/dixituwindsor/Plant_Disease_Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Plant_Disease_Detection&theme=buefy" />
 </a>
-<a href="https://github.com/dixituwindsor/Advanced_System_Programming_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Advanced_System_Programming_Project&theme=buefy" />
-</a>
 <a href="https://github.com/dixituwindsor/Diabetes_Disease_Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Diabetes_Disease_Prediction&theme=buefy" />
 </a>
