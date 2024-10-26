@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Dixit Nandaniya! 👋</h1>
-
+<h1 align="center">Hello, I'm Dixit Nandaniya! 👋</h1>
+<h4 align="center">I am Passionate about 📈 Data Science, 🤖 Machine Learning and 🐍 Python Programming</h4>
+</br>
 <p align="center">
   <a href="https://www.linkedin.com/in/dixit-nandaniya-b54a03312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dixit%20Nandaniya-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
@@ -19,13 +20,30 @@
 
 ---
 
+<!--
+| <a href="https://github.com/dixituwindsor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dixituwindsor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dixit's github stats" /></a> | <a href="https://github.com/dixituwindsor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixituwindsor&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+--- 
+-->
+
 ### 🔧 Skills & Tools
-- **Languages**: Python, Java, C, SQL, Dart
-- **Data Science & Machine Learning**: Pandas, Numpy, Scikit-learn, TensorFlow, PyTorch
-- **Frameworks**: Django, Flask
-- **Databases**: MongoDB, MySQL, SQLite
-- **Tools & Environments**: Jupyter Notebook, Google Colab, PyCharm, Visual Studio, Android Studio, Kaggle, Docker, GitHub
-- **Soft Skills**: Agile Project Management, Problem-Solving, Team Collaboration
+```python
+class Dixit:
+    def __init__(self):
+        self.languages = ["Python", "Java", "C", "SQL", "Dart"]
+        self.data_science = ["Pandas", "Numpy", "Scikit-learn", "TensorFlow", "PyTorch"]
+        self.frameworks = ["Django", "Flask"]
+        self.databases = ["MongoDB", "MySQL", "SQLite"]
+        self.tools = [
+            "Jupyter Notebook", "Google Colab", "PyCharm", "Visual Studio",
+            "Android Studio", "Kaggle", "Docker", "GitHub", "Amazon Web Services"
+        ]
+        self.soft_skills = ["Agile Project Management", "Problem-Solving", "Team Collaboration"]
+        self.challenge = "Continuously learning and exploring advanced data science and machine learning topics."
+
+dixit = Dixit()
+```
 
 ---
 
@@ -65,7 +83,7 @@ Passionate about expanding my data science expertise. Recent courses include:
 ---
 
 ### 📫 Connect with Me
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixituwindsor) for recent work.
+**I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixituwindsor) for recent work.
 
 ---
 
