@@ -50,28 +50,28 @@ dixit = Dixit()
 ### 🚀 Projects
 
 <a href="https://github.com/dixituwindsor/Plant_Disease_Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Plant_Disease_Detection" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Plant_Disease_Detection&theme=buefy" />
 </a>
 <a href="https://github.com/dixituwindsor/Diabetes_Disease_Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Diabetes_Disease_Prediction" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Diabetes_Disease_Prediction&theme=buefy" />
 </a>
 <a href="https://github.com/dixituwindsor/Placement_Package_Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Placement_Package_Prediction" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Placement_Package_Prediction&theme=buefy" />
 </a>
 <a href="https://github.com/dixituwindsor/MLKIDA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=MLKIDA" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=MLKIDA&theme=buefy" />
 </a>
 <a href="https://github.com/dixituwindsor/AdventureMinds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=AdventureMinds" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=AdventureMinds&theme=buefy" />
 </a>
 <a href="https://github.com/dixituwindsor/HedgeStrategy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=HedgeStrategy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=HedgeStrategy&theme=buefy" />
 </a>
 <a href="https://github.com/dixituwindsor/WiseBridge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=WiseBridge" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=WiseBridge&theme=buefy" />
 </a>
 <a href="https://github.com/dixituwindsor/resecure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=resecure" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=resecure&theme=buefy" />
 </a>
 
 
