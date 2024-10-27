@@ -13,10 +13,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I am a recent graduate with a Master of Applied Computing from **University of Windsor** (2023-2024) and a Bachelor's in Computer Engineering from **Ganpat University**.
+- 🎓 I am a recent graduate with a Master of Applied Computing from **University of Windsor** (2023-2024).
 - 🔍 Strong foundation in **Data Science, Machine Learning, and Deep Learning**.
 - 🌱 Focused on building innovative data science solutions using **Python Programming**.
-- 💼 Experienced **Python Developer** from Coretus Technologies, delivering scalable, efficient **Algo Trading** solutions.
+- 💼 Experienced **Python Developer** from Coretus Technologies, delivering scalable, efficient **Data Science** solutions.
 
 ---
 
@@ -47,7 +47,7 @@ dixit = Dixit()
 
 ---
 
-### 🚀 Projects
+### 🚀 Top Repositories
 
 <a href="https://github.com/dixituwindsor/Plant_Disease_Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Plant_Disease_Detection&theme=buefy" />
@@ -55,6 +55,7 @@ dixit = Dixit()
 <a href="https://github.com/dixituwindsor/Diabetes_Disease_Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Diabetes_Disease_Prediction&theme=buefy" />
 </a>
+<!--
 <a href="https://github.com/dixituwindsor/Placement_Package_Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Placement_Package_Prediction&theme=buefy" />
 </a>
@@ -73,6 +74,7 @@ dixit = Dixit()
 <a href="https://github.com/dixituwindsor/resecure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=resecure&theme=buefy" />
 </a>
+-->
 
 
 ### 📚 Continuous Learning
