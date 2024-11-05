@@ -79,8 +79,8 @@ dixit = Dixit()
 
 ### 📚 Continuous Learning
 Passionate about expanding my data science expertise. Recent courses include:
-- **Udemy**: Advanced Data Structures, Clean Coding Practices
-- **LinkedIn Learning**: Network Troubleshooting, Agile Development
+- **Udemy**: Complete Data Science Bootcamp 2024
+- **DataCamp**: Data Science Associate, SQL Associate, Understandig Prompt Engineering
 
 ---
 
