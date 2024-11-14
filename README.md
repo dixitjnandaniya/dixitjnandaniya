@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/dixitnandaniya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dixit%20Nandaniya-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/dixituwindsor" target="_blank">
+  <a href="https://github.com/dixitjnandaniya" target="_blank">
     <img src="https://img.shields.io/github/followers/dixituwindsor?label=Follow&style=social" alt="GitHub Badge"/>
   </a>
 </p>
