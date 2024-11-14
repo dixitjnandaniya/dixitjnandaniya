@@ -2,7 +2,7 @@
 <h4 align="center">I am Passionate about 📈 Data Science, 🤖 Machine Learning and 🐍 Python Programming</h4>
 </br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dixit-nandaniya-b54a03312" target="_blank">
+  <a href="https://www.linkedin.com/in/dixitnandaniya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dixit%20Nandaniya-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/dixituwindsor" target="_blank">
