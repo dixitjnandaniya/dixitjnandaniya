@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Dixit%20Nandaniya-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/dixitjnandaniya" target="_blank">
-    <img src="https://img.shields.io/github/followers/dixituwindsor?label=Follow&style=social" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/github/followers/dixitjnandaniya?label=Follow&style=social" alt="GitHub Badge"/>
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 ---
 
 <!--
-| <a href="https://github.com/dixituwindsor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dixituwindsor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dixit's github stats" /></a> | <a href="https://github.com/dixituwindsor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixituwindsor&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/dixitjnandaniya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dixitjnandaniya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dixit's github stats" /></a> | <a href="https://github.com/dixitjnandaniya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixitjnandaniya&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 --- 
@@ -49,30 +49,30 @@ dixit = Dixit()
 
 ### 🚀 Top Repositories
 
-<a href="https://github.com/dixituwindsor/Plant_Disease_Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Plant_Disease_Detection&theme=buefy" />
+<a href="https://github.com/dixitjnandaniya/Plant_Disease_Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=Plant_Disease_Detection&theme=buefy" />
 </a>
-<a href="https://github.com/dixituwindsor/Diabetes_Disease_Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Diabetes_Disease_Prediction&theme=buefy" />
+<a href="https://github.com/dixitjnandaniya/Diabetes_Disease_Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=Diabetes_Disease_Prediction&theme=buefy" />
 </a>
 <!--
-<a href="https://github.com/dixituwindsor/Placement_Package_Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=Placement_Package_Prediction&theme=buefy" />
+<a href="https://github.com/dixitjnandaniya/Placement_Package_Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=Placement_Package_Prediction&theme=buefy" />
 </a>
-<a href="https://github.com/dixituwindsor/MLKIDA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=MLKIDA&theme=buefy" />
+<a href="https://github.com/dixitjnandaniya/MLKIDA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=MLKIDA&theme=buefy" />
 </a>
-<a href="https://github.com/dixituwindsor/AdventureMinds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=AdventureMinds&theme=buefy" />
+<a href="https://github.com/dixitjnandaniya/AdventureMinds">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=AdventureMinds&theme=buefy" />
 </a>
-<a href="https://github.com/dixituwindsor/HedgeStrategy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=HedgeStrategy&theme=buefy" />
+<a href="https://github.com/dixitjnandaniya/HedgeStrategy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=HedgeStrategy&theme=buefy" />
 </a>
-<a href="https://github.com/dixituwindsor/WiseBridge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=WiseBridge&theme=buefy" />
+<a href="https://github.com/dixitjnandaniya/WiseBridge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=WiseBridge&theme=buefy" />
 </a>
-<a href="https://github.com/dixituwindsor/resecure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixituwindsor&repo=resecure&theme=buefy" />
+<a href="https://github.com/dixitjnandaniya/resecure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=resecure&theme=buefy" />
 </a>
 -->
 
@@ -85,7 +85,7 @@ Passionate about expanding my data science expertise. Recent courses include:
 ---
 
 ### 📫 Connect with Me
-**I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixituwindsor) for recent work.
+**I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixitjnandaniya) for recent work.
 
 ---
 
