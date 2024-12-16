@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dixit Nandaniya! 👋</h1>
-<h4 align="center">I am Passionate about 📈 Data Science, 🤖 Machine Learning and 🐍 Python Programming</h4>
+<h4 align="center">I am Passionate about 📈 Data Science, 🤖 Machine Learning, 🐍 Python Programming, and Software Development</h4>
 </br>
 <p align="center">
   <a href="https://www.linkedin.com/in/dixitnandaniya" target="_blank">
