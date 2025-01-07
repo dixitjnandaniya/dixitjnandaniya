@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dixit Nandaniya! 👋</h1>
-<h4 align="center">I am Passionate about 📈 Data Science, 🤖 Machine Learning, 🐍 Python Programming, and Software Development.</h4>
+<h4 align="center">I am Passionate about👨‍💻 Software Development, 🐍 Python Programming, 📈 Data Science,  and 🤖 Machine Learning.</h4>
 </br>
 <p align="center">
   <a href="https://www.linkedin.com/in/dixitnandaniya" target="_blank">
@@ -13,10 +13,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I am a recent graduate with a Master of Applied Computing from **University of Windsor** (2023-2024).
-- 🔍 Strong foundation in **Data Science, Machine Learning, and Deep Learning**.
-- 🌱 Focused on building innovative data science solutions using **Python Programming**.
-- 💼 Experienced **Python Developer** from Coretus Technologies, delivering scalable, efficient **Data Science** solutions.
+- 🎓 Master's graduate in **Applied Computing** from the University of Windsor (Aug 2024), with hands-on experience in **Software Development, Python Programming, and Machine Learning**.
+- 🔬 Passionate about leveraging **Data Science** and **AI** to solve real-world challenges.
+- 💼 Former **Python Developer** at **Coretus Technologies**, where I developed high-performance financial applications using **multithreading, asynchronous programming, and scalable architectures**.
+- 🌱 Skilled in **Python, Django, RESTful APIs, MongoDB, MySQL, and AWS**; committed to delivering impactful and innovative software solutions.
+- 🚀 Open to opportunities that let me build scalable systems and create meaningful technological advancements.
 
 ---
 
