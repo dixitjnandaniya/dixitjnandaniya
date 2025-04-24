@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Master's graduate in **Applied Computing** from the University of Windsor (Aug 2024), with hands-on experience in **Software Development, Python Programming, and Machine Learning**.
+- 🎓 Master's graduate in **Applied Computing** from the University of Windsor, with hands-on experience in **Software Development, Python Programming, and Machine Learning**.
 - 🔬 Passionate about leveraging **Data Science** and **AI** to solve real-world challenges.
 - 💼 Former **Python Developer** at **Coretus Technologies**, where I developed high-performance financial applications using **multithreading, asynchronous programming, and scalable architectures**.
 - 🌱 Skilled in **Python, Django, RESTful APIs, MongoDB, MySQL, and AWS**; committed to delivering impactful and innovative software solutions.
@@ -32,19 +32,28 @@
 ```python
 class Dixit:
     def __init__(self):
-        self.languages = ["Python", "Java", "C", "SQL", "Dart"]
+        self.languages = ["Python", "Java", "C", "SQL"]
         self.data_science = ["Pandas", "Numpy", "Scikit-learn", "TensorFlow", "PyTorch"]
         self.frameworks = ["Django", "Flask"]
-        self.databases = ["MongoDB", "MySQL", "SQLite"]
+        self.databases = ["MongoDB", "MySQL", "PostgreSQL", "SQLite"]
         self.tools = [
-            "Jupyter Notebook", "Google Colab", "PyCharm", "Visual Studio",
-            "Android Studio", "Kaggle", "Docker", "GitHub", "Amazon Web Services"
+            "PyCharm", "Visual Studio", "GitHub", "Amazon Web Services",
+            "Jupyter Notebook", "Google Colab", "Android Studio", "Kaggle", "Docker"
         ]
         self.soft_skills = ["Agile Project Management", "Problem-Solving", "Team Collaboration"]
-        self.challenge = "Continuously learning and exploring advanced data science and machine learning topics."
+        self.challenge = "Continuously learning and exploring advanced latest technologies"
 
 dixit = Dixit()
 ```
+
+---
+
+### 📫 Connect with Me
+**I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixitjnandaniya) for recent work.
+
+---
+
+⭐ **Explore my projects and don’t forget to give a star if you find something useful!** 😊
 
 ---
 
@@ -76,18 +85,3 @@ dixit = Dixit()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=resecure&theme=buefy" />
 </a>
 -->
-
-
-### 📚 Continuous Learning
-Passionate about expanding my data science expertise. Recent courses include:
-- **Udemy**: Complete Data Science Bootcamp 2024
-- **DataCamp**: Data Science Associate, SQL Associate, Understandig Prompt Engineering
-
----
-
-### 📫 Connect with Me
-**I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixitjnandaniya) for recent work.
-
----
-
-⭐ **Explore my projects and don’t forget to give a star if you find something useful!** 😊
