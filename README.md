@@ -30,7 +30,7 @@
 
 ### 🔧 Skills & Tools
 ```python
-class Dixit:
+class Skills:
     def __init__(self):
         self.languages = ["Python", "Java", "C", "SQL"]
         self.data_science = ["Pandas", "Numpy", "Scikit-learn", "TensorFlow", "PyTorch"]
@@ -43,7 +43,7 @@ class Dixit:
         self.soft_skills = ["Agile Project Management", "Problem-Solving", "Team Collaboration"]
         self.challenge = "Continuously learning and exploring advanced latest technologies"
 
-dixit = Dixit()
+skills = Skills()
 ```
 
 ---
