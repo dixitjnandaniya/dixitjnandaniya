@@ -15,8 +15,8 @@
 ### 👨‍💻 About Me
 - 🎓 Master's graduate in **Applied Computing** from the University of Windsor, with hands-on experience in **Software Development, Python Programming, and Machine Learning**.
 - 🔬 Passionate about leveraging **Data Science** and **AI** to solve real-world challenges.
-- 💼 Former **Python Developer** at **Coretus Technologies**, where I developed high-performance financial applications using **multithreading, asynchronous programming, and scalable architectures**.
-- 🌱 Skilled in **Python, Django, RESTful APIs, MongoDB, MySQL, and AWS**; committed to delivering impactful and innovative software solutions.
+- 💼 Former **Python Developer** at **Coretus Technologies**, where I developed high-performance financial applications using **Python, API Integration, Cloud Computing, and asynchronous programming**.
+- 🌱 Skilled in **Python, SQL, RESTful APIs, MongoDB, MySQL, and AWS**; committed to delivering impactful and innovative software solutions.
 - 🚀 Open to opportunities that let me build scalable systems and create meaningful technological advancements.
 
 ---
