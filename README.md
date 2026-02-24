@@ -39,42 +39,42 @@
 
 ### 🔧 Tech Stack
 
-💻 **Languages**</br>
-Python • Java • C • SQL  
+- 💻 **Languages**</br>
+  -  Python • Java • C • SQL  
 
-☁️ **Cloud & DevOps**</br>
-AWS (S3, Lambda, EC2, Glue, Athena) • Docker • CI/CD  
+- ☁️ **Cloud & DevOps**</br>
+  -  AWS (S3, Lambda, EC2, Glue, Athena) • Docker • CI/CD  
 
-⚙️ **Backend & Systems**</br>
-REST APIs • Microservices • Distributed Systems • Async Processing  
+- ⚙️ **Backend & Systems**</br>
+  -  REST APIs • Microservices • Distributed Systems • Async Processing  
 
-📊 **Data & ML**</br>
-Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch  
+- 📊 **Data & ML**</br>
+  -  Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch  
 
-🗄️ **Databases**</br>
-MongoDB • PostgreSQL • MySQL  
+- 🗄️ **Databases**</br>
+  -  MongoDB • PostgreSQL • MySQL  
 
-🛠️ **Tools**</br>
-Git • GitHub • Jupyter • Firebase • Android Studio  
+- 🛠️ **Tools**</br>
+  -  Git • GitHub • Jupyter • Firebase • Android Studio  
 
 
 ### 🚀 Featured Projects
 
 🔥 **Real-Time Trading System**
-- Built scalable backend using Python, WebSockets, REST APIs
-- Supported multi-account execution & real-time processing
+  - Built scalable backend using Python, WebSockets, REST APIs
+  - Supported multi-account execution & real-time processing
 
 📊 **AWS Data Pipeline**
-- Designed ETL pipeline using S3, Glue, Athena
-- Processed large-scale datasets & built dashboards
+  - Designed ETL pipeline using S3, Glue, Athena
+  - Processed large-scale datasets & built dashboards
 
 🧠 **ML K.I.D.A (Computer Vision System)**
-- YOLOv8 + Deep SORT for real-time detection & tracking
-- Applied in agricultural automation
+  - YOLOv8 + Deep SORT for real-time detection & tracking
+  - Applied in agricultural automation
 
 📱 **ReSecure (Mobile + Cloud System)**
-- Flutter + Firebase real-time surveillance system
-- Live streaming, alerts, multi-user support
+  - Flutter + Firebase real-time surveillance system
+  - Live streaming, alerts, multi-user support
 
 
 ### 📫 Connect with Me
