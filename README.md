@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dixit Nandaniya</h1>
 <h3 align="center">🚀 Software Engineer | Backend • Cloud • Data • ML</h3>
-</br>
 <p align="center">
   <a href="https://www.linkedin.com/in/dixitnandaniya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dixit%20Nandaniya-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
@@ -11,10 +10,10 @@
 </p>
 
 <p align="center">
-💡 Building scalable backend systems, real-time applications, and cloud-native data pipelines  
+💡 Building scalable backend systems, real-time applications, and cloud-native data pipelines</br>
 📍 Open to Software Engineering / Backend / Cloud / Data roles  
 </p>
----
+
 
 ### 👨‍💻 About Me
 
@@ -37,13 +36,6 @@
 
 - 🎯 Strong focus on building **production-ready systems**, not just projects
 
----
-
-<!--
-| <a href="https://github.com/dixitjnandaniya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dixitjnandaniya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dixit's github stats" /></a> | <a href="https://github.com/dixitjnandaniya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixitjnandaniya&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
---- 
 
 ### 🔧 Tech Stack
 
@@ -65,7 +57,6 @@ MongoDB • PostgreSQL • MySQL
 🛠️ **Tools**
 Git • GitHub • Jupyter • Firebase • Android Studio  
 
----
 
 ### 🚀 Featured Projects
 
@@ -85,16 +76,13 @@ Git • GitHub • Jupyter • Firebase • Android Studio
 - Flutter + Firebase real-time surveillance system
 - Live streaming, alerts, multi-user support
 
----
 
 ### 📫 Connect with Me
 **I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixitjnandaniya) for recent work.
 
----
 
 ⭐ **Explore my projects and don’t forget to give a star if you find something useful!** 😊
 
----
 
 ### 🚀 Top Repositories
 
