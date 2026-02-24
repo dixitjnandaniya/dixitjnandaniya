@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Dixit Nandaniya! 👋</h1>
-<h4 align="center">I am Passionate about 👨‍💻 Software Development, 🐍 Python Programming, 📈 Data Science, and 🤖 Machine Learning.</h4>
+<h1 align="center">Hi 👋, I'm Dixit Nandaniya</h1>
+<h3 align="center">🚀 Software Engineer | Backend • Cloud • Data • ML</h3>
 </br>
 <p align="center">
   <a href="https://www.linkedin.com/in/dixitnandaniya" target="_blank">
@@ -10,14 +10,32 @@
   </a>
 </p>
 
+<p align="center">
+💡 Building scalable backend systems, real-time applications, and cloud-native data pipelines  
+📍 Open to Software Engineering / Backend / Cloud / Data roles  
+</p>
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Master's graduate in **Applied Computing** from the University of Windsor, with hands-on experience in **Software Development, Python Programming, and Machine Learning**.
-- 🔬 Passionate about leveraging **Software** and **Programming** to solve real-world challenges.
-- 💼 Former **Python Developer** at **Coretus Technologies**, where I developed high-performance financial applications using **Python, API Integration, Cloud Computing, and asynchronous programming**.
-- 🌱 Skilled in **Python, SQL, RESTful APIs, MongoDB, MySQL, and AWS**; committed to delivering impactful and innovative software solutions.
-- 🚀 Open to opportunities that let me build scalable systems and create meaningful technological advancements.
+
+- 🚀 Software Engineer with 2+ years of experience building scalable backend systems, cloud-native applications, and data-driven solutions.
+
+- ⚙️ Experienced in:
+  - Backend Development (Python, REST APIs, async systems)
+  - Cloud & DevOps (AWS, Docker, CI/CD)
+  - Data Engineering & Machine Learning pipelines
+
+- 💼 Previously at **Coretus Technologies**:
+  - Built low-latency trading systems handling **3M+ trades/day**
+  - Improved system performance by **60%+**
+  - Reduced infra response time by **70%**
+
+- 🧠 Built real-world systems:
+  - ML-based detection system (YOLOv8 + tracking)
+  - AWS data pipeline (S3 + Glue + Athena)
+  - Real-time trading platform (WebSockets + APIs)
+
+- 🎯 Strong focus on building **production-ready systems**, not just projects
 
 ---
 
@@ -26,25 +44,46 @@
 | ------------- | ------------- |
 
 --- 
--->
 
-### 🔧 Skills & Tools
-```python
-class Skills:
-    def __init__(self):
-        self.languages = ["Python", "Java", "C", "SQL"]
-        self.data_science = ["Pandas", "Numpy", "Scikit-learn", "TensorFlow", "PyTorch"]
-        self.frameworks = ["Django", "Flask"]
-        self.databases = ["MongoDB", "MySQL", "PostgreSQL", "SQLite"]
-        self.tools = [
-            "PyCharm", "Visual Studio", "GitHub", "Amazon Web Services",
-            "Jupyter Notebook", "Google Colab", "Android Studio", "Kaggle", "Docker"
-        ]
-        self.soft_skills = ["Agile Project Management", "Problem-Solving", "Team Collaboration"]
-        self.challenge = "Continuously learning and exploring advanced latest technologies"
+### 🔧 Tech Stack
 
-skills = Skills()
-```
+💻 **Languages**
+Python • Java • C • SQL  
+
+☁️ **Cloud & DevOps**
+AWS (S3, Lambda, EC2, Glue, Athena) • Docker • CI/CD  
+
+⚙️ **Backend & Systems**
+REST APIs • Microservices • Distributed Systems • Async Processing  
+
+📊 **Data & ML**
+Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch  
+
+🗄️ **Databases**
+MongoDB • PostgreSQL • MySQL  
+
+🛠️ **Tools**
+Git • GitHub • Jupyter • Firebase • Android Studio  
+
+---
+
+### 🚀 Featured Projects
+
+🔥 **Real-Time Trading System**
+- Built scalable backend using Python, WebSockets, REST APIs
+- Supported multi-account execution & real-time processing
+
+📊 **AWS Data Pipeline**
+- Designed ETL pipeline using S3, Glue, Athena
+- Processed large-scale datasets & built dashboards
+
+🧠 **ML K.I.D.A (Computer Vision System)**
+- YOLOv8 + Deep SORT for real-time detection & tracking
+- Applied in agricultural automation
+
+📱 **ReSecure (Mobile + Cloud System)**
+- Flutter + Firebase real-time surveillance system
+- Live streaming, alerts, multi-user support
 
 ---
 
@@ -59,6 +98,9 @@ skills = Skills()
 
 ### 🚀 Top Repositories
 
+<a href="https://github.com/dixitjnandaniya/MLKIDA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=MLKIDA&theme=buefy" />
+</a>
 <a href="https://github.com/dixitjnandaniya/Plant_Disease_Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=Plant_Disease_Detection&theme=buefy" />
 </a>
