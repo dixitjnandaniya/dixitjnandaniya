@@ -39,22 +39,22 @@
 
 ### 🔧 Tech Stack
 
-💻 **Languages**
+💻 **Languages**</br>
 Python • Java • C • SQL  
 
-☁️ **Cloud & DevOps**
+☁️ **Cloud & DevOps**</br>
 AWS (S3, Lambda, EC2, Glue, Athena) • Docker • CI/CD  
 
-⚙️ **Backend & Systems**
+⚙️ **Backend & Systems**</br>
 REST APIs • Microservices • Distributed Systems • Async Processing  
 
-📊 **Data & ML**
+📊 **Data & ML**</br>
 Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch  
 
-🗄️ **Databases**
+🗄️ **Databases**</br>
 MongoDB • PostgreSQL • MySQL  
 
-🛠️ **Tools**
+🛠️ **Tools**</br>
 Git • GitHub • Jupyter • Firebase • Android Studio  
 
 
@@ -78,7 +78,7 @@ Git • GitHub • Jupyter • Firebase • Android Studio
 
 
 ### 📫 Connect with Me
-**I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixitjnandaniya) for recent work.
+**I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixitjnandaniya).
 
 
 ⭐ **Explore my projects and don’t forget to give a star if you find something useful!** 😊
