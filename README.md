@@ -77,13 +77,6 @@
   - Supported multi-account execution & real-time processing
 
 
-### 📫 Connect with Me
-**I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixitjnandaniya).
-
-
-⭐ **Explore my projects and don’t forget to give a star if you find something useful!** 😊
-
-
 ### 🚀 Top Repositories
 
 - 📊 **YouTube Data Analysis** — AWS ETL pipeline (S3, Glue, Athena, QuickSight)  
@@ -97,6 +90,13 @@
 
 - 📱 **ReSecure** — Flutter + Firebase real-time surveillance system  
   https://github.com/dixitjnandaniya/resecure
+
+
+### 📫 Connect with Me
+**I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixitjnandaniya).
+
+
+⭐ **Explore my projects and don’t forget to give a star if you find something useful!** 😊
 <!--
 <a href="https://github.com/dixitjnandaniya/Placement_Package_Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=Placement_Package_Prediction&theme=buefy" />
