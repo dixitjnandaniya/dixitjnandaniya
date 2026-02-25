@@ -60,10 +60,6 @@
 
 ### 🚀 Featured Projects
 
-📊 **AWS Data Pipeline**
-  - Designed ETL pipeline using S3, Glue, Athena
-  - Processed large-scale datasets & built dashboards
-
 🧠 **ML K.I.D.A (Computer Vision System)**
   - YOLOv8 + Deep SORT for real-time detection & tracking
   - Applied in agricultural automation
@@ -76,17 +72,18 @@
   - Built scalable backend using Python, WebSockets, REST APIs
   - Supported multi-account execution & real-time processing
 
+📊 **AWS Data Pipeline**
+  - Designed ETL pipeline using S3, Glue, Athena
+  - Processed large-scale datasets & built dashboards
+
 
 ### 🚀 Top Repositories
-
-- 📊 **YouTube Data Analysis** — AWS ETL pipeline (S3, Glue, Athena, QuickSight)  
-  https://github.com/dixitjnandaniya/YouTubeDataAnalysis
 
 - 🧠 **MLKIDA** — YOLOv8 + Deep SORT real-time detection & tracking  
   https://github.com/dixitjnandaniya/MLKIDA
 
 - 🔥 **Trade Manager** — Real-time trading system (Python, WebSockets, REST, MongoDB)  
-  https://github.com/dixitjnandaniya/TradeManager
+  https://github.com/dixitjnandaniya/tradeflow-trading-engine
 
 - 📱 **ReSecure** — Flutter + Firebase real-time surveillance system  
   https://github.com/dixitjnandaniya/resecure
