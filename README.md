@@ -55,14 +55,10 @@
   -  MongoDB • PostgreSQL • MySQL  
 
 - 🛠️ **Tools**</br>
-  -  Git • GitHub • Jupyter • Firebase • Android Studio  
+  -  Git • GitHub • PyCharm • Jupyter • Firebase • Android Studio  
 
 
 ### 🚀 Featured Projects
-
-🔥 **Real-Time Trading System**
-  - Built scalable backend using Python, WebSockets, REST APIs
-  - Supported multi-account execution & real-time processing
 
 📊 **AWS Data Pipeline**
   - Designed ETL pipeline using S3, Glue, Athena
@@ -76,6 +72,10 @@
   - Flutter + Firebase real-time surveillance system
   - Live streaming, alerts, multi-user support
 
+🔥 **Real-Time Trading System**
+  - Built scalable backend using Python, WebSockets, REST APIs
+  - Supported multi-account execution & real-time processing
+
 
 ### 📫 Connect with Me
 **I love to connect with different people** so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dixit-nandaniya-b54a03312) or explore more on my [GitHub profile](https://github.com/dixitjnandaniya).
@@ -86,15 +86,17 @@
 
 ### 🚀 Top Repositories
 
-<a href="https://github.com/dixitjnandaniya/MLKIDA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=MLKIDA&theme=buefy" />
-</a>
-<a href="https://github.com/dixitjnandaniya/Plant_Disease_Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=Plant_Disease_Detection&theme=buefy" />
-</a>
-<a href="https://github.com/dixitjnandaniya/Diabetes_Disease_Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=Diabetes_Disease_Prediction&theme=buefy" />
-</a>
+- 📊 **YouTube Data Analysis** — AWS ETL pipeline (S3, Glue, Athena, QuickSight)  
+  https://github.com/dixitjnandaniya/YouTubeDataAnalysis
+
+- 🧠 **MLKIDA** — YOLOv8 + Deep SORT real-time detection & tracking  
+  https://github.com/dixitjnandaniya/MLKIDA
+
+- 🔥 **Trade Manager** — Real-time trading system (Python, WebSockets, REST, MongoDB)  
+  https://github.com/dixitjnandaniya/TradeManager
+
+- 📱 **ReSecure** — Flutter + Firebase real-time surveillance system  
+  https://github.com/dixitjnandaniya/resecure
 <!--
 <a href="https://github.com/dixitjnandaniya/Placement_Package_Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixitjnandaniya&repo=Placement_Package_Prediction&theme=buefy" />
